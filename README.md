@@ -1,5 +1,5 @@
 # Database-Deisgn
-# SQL-join - **
+# SQL-join - *Sorting*
 
 Submitted by: **Sakina Lougue**
 
