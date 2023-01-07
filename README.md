@@ -1,5 +1,5 @@
 # Database-Deisgn
-# SQL-join - *Name of App Here*
+# SQL-join - **
 
 Submitted by: **Sakina Lougue**
 
